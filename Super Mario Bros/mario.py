@@ -47,4 +47,3 @@ class Mario:
         #Else we raise an error and we close the program
         else:
             raise ValueError("To use the direction fun. of Mario the direction must be right or left or jump or down, check if you misspelled in your program using this function")
-            raise pyxel.quit()
