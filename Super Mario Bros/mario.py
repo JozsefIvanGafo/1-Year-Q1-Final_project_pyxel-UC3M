@@ -4,7 +4,7 @@ description:
 Here the program will create the class Mario that will be in charge of all the things related to mario
 @Author: József Iván Gafo and Marcos González
 @since 11/14/2021
-@Version 0.0
+@Version 0.0.1
 """
 import pyxel
 class Mario:
