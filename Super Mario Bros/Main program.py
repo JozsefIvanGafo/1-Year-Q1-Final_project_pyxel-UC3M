@@ -4,7 +4,7 @@ description:
 Here the program will exectu the code
 @Author: József Iván Gafo and Marcos González
 @since 11/14/2021
-@Version 0.0
+@Version 0.0.1
 """
 #We import the libraries and classes needed for the program
 import pyxel
