@@ -4,7 +4,7 @@ description:
 Here the program will create a class App that will execute the draw and update functions for the Main program
 @Author: József Iván Gafo and Marcos González
 @since 11/14/2021
-@Version 0.0
+@Version 0.0.1
 """
 import pyxel
 from mario import Mario
